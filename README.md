@@ -27,7 +27,6 @@ Let's connect and create something awesome! 🤝
 📫 How to reach me:
 - Email: yossielg98@gmail.com
 - LinkedIn: [linkedin.com/in/yossielgazari](https://linkedin.com/in/yossielgazari)
-- GitHub: [github.com/YossiElgazari](https://github.com/YossiElgazari)
 
 Stay curious and keep coding! 😄
 
