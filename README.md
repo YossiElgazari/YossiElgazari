@@ -1,4 +1,3 @@
-```markdown
 ### Hey there! 👋
 
 Welcome to my coding playground! 🚀
@@ -31,4 +30,4 @@ Let's connect and create something awesome! 🤝
 - GitHub: [github.com/YossiElgazari](https://github.com/YossiElgazari)
 
 Stay curious and keep coding! 😄
-```
+
